@@ -1,0 +1,45 @@
+{
+  "_from": "sulemanrai-hello-world-node-package",
+  "_id": "sulemanrai-hello-world-node-package@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-cZ+YA2qmPcqzoNq26KVJ2BkClfiyGAyTwhwfZkfkZ088tmuQAjitzHZF9NvHUb39vbMV1IqVYZUlPCOReFYJxA==",
+  "_location": "/sulemanrai-hello-world-node-package",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "sulemanrai-hello-world-node-package",
+    "name": "sulemanrai-hello-world-node-package",
+    "escapedName": "sulemanrai-hello-world-node-package",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/sulemanrai-hello-world-node-package/-/sulemanrai-hello-world-node-package-1.0.0.tgz",
+  "_shasum": "765bc2ab60fd40e8fa092a51c1f04cf37fda876a",
+  "_spec": "sulemanrai-hello-world-node-package",
+  "_where": "C:\\xampp\\htdocs\\npmtest",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/sulemanrai/hello-world-node-package/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "",
+  "homepage": "https://github.com/sulemanrai/hello-world-node-package#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "sulemanrai-hello-world-node-package",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sulemanrai/hello-world-node-package.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
